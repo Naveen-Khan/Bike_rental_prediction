@@ -3,9 +3,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 A modern, interactive Machine Learning dashboard built with Streamlit to forecast bike rental demand in real-time. This project uses a Random Forest Regressor trained on historical weather and seasonal data to predict how many bikes will be rented under varying conditions.
+
+ ### demo
+  
+     https://naveen-khan-bike-rental-prediction-app-tr5fau.streamlit.app/
 
 ## ✨ Features
 
