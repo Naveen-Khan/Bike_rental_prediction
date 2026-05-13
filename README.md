@@ -10,7 +10,7 @@ A modern, interactive Machine Learning dashboard built with Streamlit to forecas
 ## ✨ Features
 
 *   **Real-time Predictions:** Adjust sliders for Temperature, Humidity, Wind Speed, and Season to see instant rental forecasts.
-*   **Premium UI/UX:** Custom dark-themed "glassmorphism" design with interactive metric cards and a live demand gauge.
+  
 *   **Scenario Analysis:** Compares the predicted outcome against preset extreme weather scenarios (e.g., "Cold & Windy" vs. "Hot & Dry").
 *   **Interactive Data Explorer:** Dive into historical data with Plotly-powered scatter plots and box plots. Filter data by season to discover underlying trends.
 *   **Model Insights (Explainable AI):** 
